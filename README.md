@@ -1,0 +1,1 @@
+This is johny first git project
